@@ -1,0 +1,17 @@
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pri
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\priconfig.xml
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\priconfig.xml.intermediate
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\layout.resfiles
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\layout.resfiles.intermediate
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\resources.resfiles
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\resources.resfiles.intermediate
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\pri.resfiles
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\pri.resfiles.intermediate
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt.intermediate
+C:\Projects\Bamboo-Research\HelloWorld\HelloWorld\obj\Debug\MultipleQualifiersPerDimensionFound.txt
